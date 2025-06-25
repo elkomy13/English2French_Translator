@@ -12,9 +12,10 @@ The project includes:
 - Deployment as a web application using Streamlit
 
 ## Streamlit Demo
+![image](https://github.com/user-attachments/assets/f355512d-2467-409b-b5b1-5f1ebe5da591)
 
 Watch the demo video:  
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Video Demonstration](https://img.shields.io/badge/▶-Watch%20Demo-red.svg)](https://drive.google.com/file/d/1nc14-nnnqE2sknREWyQA2IStaoBAWoQ7/view?usp=sharing)
 
 ## Key Features
 
